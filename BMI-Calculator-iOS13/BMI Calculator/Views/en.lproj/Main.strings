@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "CALCULATE"; ObjectID = "0F0-S2-2nc"; */
+"0F0-S2-2nc.normalTitle" = "CALCULATE";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "2GN-cs-U2z"; */
+"2GN-cs-U2z.text" = "Height";
+
+/* Class = "UILabel"; text = "EAT SOME MORE SNACKS!"; ObjectID = "9IV-CT-mxw"; */
+"9IV-CT-mxw.text" = "EAT SOME MORE SNACKS!";
+
+/* Class = "UIButton"; normalTitle = "RECALCULATE"; ObjectID = "CO5-IF-rJM"; */
+"CO5-IF-rJM.normalTitle" = "RECALCULATE";
+
+/* Class = "UILabel"; text = "100Kg"; ObjectID = "LTF-aL-8qu"; */
+"LTF-aL-8qu.text" = "100Kg";
+
+/* Class = "UILabel"; text = "19.5"; ObjectID = "VU9-2W-Sd5"; */
+"VU9-2W-Sd5.text" = "19.5";
+
+/* Class = "UILabel"; text = "1.5m"; ObjectID = "Xcz-1j-2c9"; */
+"Xcz-1j-2c9.text" = "1.5m";
+
+/* Class = "UILabel"; text = "YOUR RESULT"; ObjectID = "kYX-DY-jNL"; */
+"kYX-DY-jNL.text" = "YOUR RESULT";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "qI8-dT-A9l"; */
+"qI8-dT-A9l.text" = "Weight";
+
+/* Class = "UILabel"; text = "CALCULATE YOUR BMI"; ObjectID = "xKB-EL-7da"; */
+"xKB-EL-7da.text" = "CALCULATE YOUR BMI";
